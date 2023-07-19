@@ -1,1 +1,1 @@
-Avatar icons used for Jenkins job notifications.
+Avatar icons used for Jenkins job notifications..
